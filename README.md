@@ -22,6 +22,10 @@
 - Data Structures & Algorithms in C
 - Backend Development
 
+### ⏰ When I Code
+
+<img src="./commit-clock.svg" width="100%"/>
+
 ### 📫 Contact
 
 <a href="mailto:jsy735@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
