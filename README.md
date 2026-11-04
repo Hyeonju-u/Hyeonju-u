@@ -24,7 +24,10 @@
 
 ### ⏰ When I Code
 
-<img src="./commit-sky.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./commit-clock.svg">
+  <img src="./commit-sky.svg" width="100%">
+</picture>
 
 ### 📫 Contact
 
