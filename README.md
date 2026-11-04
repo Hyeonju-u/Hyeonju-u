@@ -24,7 +24,7 @@
 
 ### ⏰ When I Code
 
-<img src="./commit-clock.svg" width="100%"/>
+<img src="./commit-sky.svg" width="100%"/>
 
 ### 📫 Contact
 
