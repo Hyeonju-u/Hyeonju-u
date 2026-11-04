@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" width="820" height="300">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#0b1340"/><stop offset=".22" stop-color="#3b4a9a"/><stop offset=".33" stop-color="#f6a6b2"/>
+<stop offset=".45" stop-color="#7cc8f8"/><stop offset=".62" stop-color="#4aa8f0"/><stop offset=".76" stop-color="#f59e6b"/>
+<stop offset=".86" stop-color="#7b4fa0"/><stop offset="1" stop-color="#0b1340"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#020b1f" stop-opacity=".55"/></linearGradient>
+<linearGradient id="hill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#fff" stop-opacity=".15"/></linearGradient>
+<clipPath id="rev"><rect x="0" y="0" width="0" height="300"><animate attributeName="width" from="0" to="820" dur="1.6s" fill="freeze"/></rect></clipPath>
+<style>
+.title{font:700 24px ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff} .sub{font:13px ui-monospace,Menlo,Consolas,monospace;fill:#ffffffcc}
+.seg{font:14px ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff} .segp{font:12px ui-monospace,Menlo,Consolas,monospace;fill:#ffffffbb} .pk{font:12px ui-monospace,Menlo,Consolas,monospace;fill:#0b1340}
+</style>
+</defs>
+<rect width="820" height="300" rx="14" fill="url(#sky)"/>
+<rect width="820" height="300" rx="14" fill="url(#fade)"/>
+<text x="30" y="44" class="title">I'm a Evening Coder 🌆</text>
+<text x="30" y="66" class="sub">4 commits · KST</text>
+<text x="129.1" y="268" text-anchor="middle" class="seg">🌙 Night</text><text x="129.1" y="287" text-anchor="middle" class="segp">0%</text><text x="327.4" y="268" text-anchor="middle" class="seg">🌅 Morning</text><text x="327.4" y="287" text-anchor="middle" class="segp">0%</text><line x1="228.3" x2="228.3" y1="80" y2="240" stroke="#fff" stroke-opacity=".15" stroke-dasharray="3 5"/><text x="525.7" y="268" text-anchor="middle" class="seg">🏙️ Daytime</text><text x="525.7" y="287" text-anchor="middle" class="segp">0%</text><line x1="426.5" x2="426.5" y1="80" y2="240" stroke="#fff" stroke-opacity=".15" stroke-dasharray="3 5"/><text x="723.9" y="268" text-anchor="middle" class="seg">🌆 Evening</text><text x="723.9" y="287" text-anchor="middle" class="segp">100%</text><line x1="624.8" x2="624.8" y1="80" y2="240" stroke="#fff" stroke-opacity=".15" stroke-dasharray="3 5"/>
+<g clip-path="url(#rev)">
+<path d="M30.0,240.0 C35.5,240.0 52.0,240.0 63.0,240.0 C74.1,240.0 85.1,240.0 96.1,240.0 C107.1,240.0 118.1,240.0 129.1,240.0 C140.1,240.0 151.2,240.0 162.2,240.0 C173.2,240.0 184.2,240.0 195.2,240.0 C206.2,240.0 217.2,240.0 228.3,240.0 C239.3,240.0 250.3,240.0 261.3,240.0 C272.3,240.0 283.3,240.0 294.3,240.0 C305.4,240.0 316.4,240.0 327.4,240.0 C338.4,240.0 349.4,240.0 360.4,240.0 C371.4,240.0 382.5,240.0 393.5,240.0 C404.5,240.0 415.5,240.0 426.5,240.0 C437.5,240.0 448.6,240.0 459.6,240.0 C470.6,240.0 481.6,240.0 492.6,240.0 C503.6,240.0 514.6,240.0 525.7,240.0 C536.7,240.0 547.7,240.0 558.7,240.0 C569.7,240.0 580.7,240.0 591.7,240.0 C602.8,240.0 613.8,240.0 624.8,240.0 C635.8,240.0 646.8,265.0 657.8,240.0 C668.8,215.0 679.9,90.0 690.9,90.0 C701.9,90.0 712.9,215.0 723.9,240.0 C734.9,265.0 745.9,240.0 757.0,240.0 C768.0,240.0 784.5,240.0 790.0,240.0 L790,240 L30,240 Z" fill="url(#hill)"/><path d="M30.0,240.0 C35.5,240.0 52.0,240.0 63.0,240.0 C74.1,240.0 85.1,240.0 96.1,240.0 C107.1,240.0 118.1,240.0 129.1,240.0 C140.1,240.0 151.2,240.0 162.2,240.0 C173.2,240.0 184.2,240.0 195.2,240.0 C206.2,240.0 217.2,240.0 228.3,240.0 C239.3,240.0 250.3,240.0 261.3,240.0 C272.3,240.0 283.3,240.0 294.3,240.0 C305.4,240.0 316.4,240.0 327.4,240.0 C338.4,240.0 349.4,240.0 360.4,240.0 C371.4,240.0 382.5,240.0 393.5,240.0 C404.5,240.0 415.5,240.0 426.5,240.0 C437.5,240.0 448.6,240.0 459.6,240.0 C470.6,240.0 481.6,240.0 492.6,240.0 C503.6,240.0 514.6,240.0 525.7,240.0 C536.7,240.0 547.7,240.0 558.7,240.0 C569.7,240.0 580.7,240.0 591.7,240.0 C602.8,240.0 613.8,240.0 624.8,240.0 C635.8,240.0 646.8,265.0 657.8,240.0 C668.8,215.0 679.9,90.0 690.9,90.0 C701.9,90.0 712.9,215.0 723.9,240.0 C734.9,265.0 745.9,240.0 757.0,240.0 C768.0,240.0 784.5,240.0 790.0,240.0" fill="none" stroke="#fff" stroke-width="2.5"/>
+<circle cx="690.9" cy="90.0" r="5" fill="#fff"/>
+<rect x="652.9" y="58.0" width="76" height="20" rx="10" fill="#fff"/>
+<text x="690.9" y="72.0" text-anchor="middle" class="pk">peak 20:00</text>
+</g>
+</svg>
